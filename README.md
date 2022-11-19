@@ -1,2 +1,2 @@
 # namekool
-A deploymant infrastructure for nameko application
+Infrastracture for deploying nameko function
