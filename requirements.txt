@@ -1,0 +1,3 @@
+nameko
+nameko-prometheus
+prometheus_client
